@@ -1,0 +1,13 @@
+#counter{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: 30%;
+	left: 30%;
+	background-color: orange;
+}
+p{
+	position: absolute;
+	top: 45%;
+	left: 31%;
+}
